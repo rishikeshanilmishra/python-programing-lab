@@ -1,3 +1,8 @@
+#title-online shopping
+#name-Rishikesh Anil Mishra
+#M 40,
+#GR no.11811272
+
 from easygui import *
 import sys
 
